@@ -4,7 +4,7 @@ _Proyecto realizado por: Josselyn Vega Devia_
 
 ## 1. Resumen del Proyecto
 
-Este documento detalla la implementación de una batería de pruebas unitarias para la aplicación `SmartOrders`. El objetivo principal es formalizar el proceso de testing para reforzar la detección temprana de defectos, facilitar futuras modificaciones y garantizar la calidad y estabilidad del sistema.
+Este documento detalla la implementación de pruebas unitarias para la aplicación `SmartOrders`. El objetivo principal es formalizar el proceso de testing para reforzar la detección temprana de defectos, facilitar futuras modificaciones y garantizar la calidad y estabilidad del sistema.
 
 La situación inicial de la empresa era una validación manual de pedidos, un proceso lento y propenso a errores que generaba un riesgo constante de regresiones. La adopción del **Testing Unitario con JUnit 5** se presenta como la solución estratégica para mitigar estos problemas, proporcionando una red de seguridad automatizada que valida la lógica de negocio clave (cálculos, descuentos, stock, etc.).
 
